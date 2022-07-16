@@ -57,10 +57,10 @@ while True:
                     else:
                         print('you lose :(')
                         print(f'{word}')
-            myAction = input('play again?\n\n--was this word offensive? reply yes to remove--\n')
+            myAction = input('play again?\n\n--was this word offensive? reply remove to remove--\n')
             if 'play again' in myAction:
                 continue
-            elif myAction == 'yes':
+            elif myAction == 'remove':
                 with open('badwords','a') as f:
                     f.write(word)
                     print('taken care of')
