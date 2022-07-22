@@ -14,14 +14,15 @@ The bot was programmed in python 3.10. It utilizes BeautifulSoup4 as well as req
 
 -add a word
 
-play game
+*play game*
+
 
 
 
 : conscious exertion of power : hard work
 the word is 6 letters long
 what is this word?
-labour
+*labour*
 wrong
 
 
@@ -29,10 +30,11 @@ the first letter is e
 
 
 
+
 : conscious exertion of power : hard work
 the word is 6 letters long
 what is this word?
-efforts
+*efforts*
 wrong
 
 
@@ -40,10 +42,11 @@ the first letter is e and the second letter is f
 
 
 
+
 : conscious exertion of power : hard work
 the word is 6 letters long
 what is this word?
-effort
+*effort*
 you got it!
 
 
